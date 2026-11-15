@@ -38,7 +38,7 @@ while True:
             print("Aucune tâche trouvée.")
 
     elif choix == "0":
-        print("Au revoir !")
+        print("Merci d'avoir utilisé notre application !")
         break
 
     else:
