@@ -43,3 +43,5 @@ while True:
 
     else:
         print("Choix invalide.")
+
+    # Fin de l'application
